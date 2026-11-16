@@ -1,0 +1,24 @@
+{
+  "name": "flypost",
+  "displayName": "Flypost",
+  "version": "1.0.0",
+  "description": "Plan, write, design and schedule LinkedIn content in your own voice from your own material, using the Flypost connector: ideas checked against what you have already published, posts grounded in your Brain, branded carousels and infographics, and scheduling to LinkedIn.",
+  "author": {
+    "name": "Flypost",
+    "email": "hello@flypost.io",
+    "url": "https://www.flypost.io"
+  },
+  "homepage": "https://www.flypost.io/help/connect-flypost-to-chatgpt-or-claude",
+  "privacyPolicyUrl": "https://www.flypost.io/privacy",
+  "repository": "https://github.com/samtoksta/flypost-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "linkedin",
+    "content",
+    "social-media",
+    "marketing",
+    "writing",
+    "carousel",
+    "scheduling"
+  ]
+}

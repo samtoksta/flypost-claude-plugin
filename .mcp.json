@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "flypost": {
+      "type": "http",
+      "url": "https://mcp.flypost.io/claude/mcp"
+    }
+  }
+}
